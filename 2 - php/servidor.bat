@@ -1,0 +1,2 @@
+php -S 127.0.0.1:8050
+1 - Estudos\PHP\Estudos>
